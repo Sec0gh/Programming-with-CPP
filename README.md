@@ -1,5 +1,5 @@
 # Data_Structure_Programming 
-### This branch contains some codes for data structure with c++:
+### This branch contains some codes for data structures with c++:
 #### (1) Stack
 #### (2) Queue
 #### (3) Circular queue
