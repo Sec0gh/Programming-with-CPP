@@ -1,2 +1,3 @@
-# C++_Problems
-## This is some of solved problems with C++
+# C++_Language_Programmming
+
+### This repo contains some C++ code for object-oriented programming, data structures, and algorithms.
