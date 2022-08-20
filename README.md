@@ -1,6 +1,6 @@
 # C++ Language Programmming
 
-- This repo contains some C++ code for object-oriented programming, data structures, and algorithms.
+- This repo contains some C++ codes for object-oriented programming, data structures, and algorithms.
 -Some exercises and applications on OOP, classes, inheritance, polymorphism, and abstract class.
  
 - Data structures as:
